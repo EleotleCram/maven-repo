@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.sourceforge.spnego</groupId>
+  <artifactId>spnego</artifactId>
+  <versioning>
+    <release>7.0-with-chromium-fix</release>
+    <versions>
+      <version>7.0-with-chromium-fix</version>
+    </versions>
+    <lastUpdated>20120404153126</lastUpdated>
+  </versioning>
+</metadata>
